@@ -99,5 +99,4 @@ const insertData = async () => {
     }
 }
 
-
 insertData()
